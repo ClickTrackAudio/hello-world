@@ -1,2 +1,4 @@
 # hello-world
-Just starting out
+Changing the initial message.
+
+Hi World.  Coming back to an old friend...
